@@ -13,7 +13,21 @@
 {% embed url="https://github.com/watanabe3tipapa/watanabe3ti.io/tree/master/docs/_posts" %}
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="3rd Tab" %}
+{% embed url="http://watanabe3ti.com" %}
+Main Site
+{% endembed %}
+{% endtab %}
 
+{% tab title="4th Tab" %}
+{% embed url="http://watanabe3ti.txt-nifty.com" %}
+BLOG
+{% endembed %}
+{% endtab %}
+
+{% tab title="5th Tab" %}
+{% embed url="https://wiki.watanabe3ti.com" %}
+BLOG（ annex）==（Wiki）
+{% endembed %}
 {% endtab %}
 {% endtabs %}
