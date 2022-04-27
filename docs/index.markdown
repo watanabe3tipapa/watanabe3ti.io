@@ -1,6 +1,29 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# 🔝 README
 
-layout: home
----
+> このサイトは新しいポータルとして設置します。
+
+{% tabs %}
+{% tab title="Main" %}
+GitHub Repo
+
+* watanabetipapa.io
+* nnn
+{% endtab %}
+
+{% tab title="WEB SITE" %}
+
+{% endtab %}
+
+{% tab title="BLOG" %}
+
+{% endtab %}
+
+{% tab title="Wiki（BLOG annex）" %}
+
+{% endtab %}
+
+{% tab title="Toolsmith" %}
+
+{% endtab %}
+{% endtabs %}
+
