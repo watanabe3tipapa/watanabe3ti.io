@@ -2,4 +2,4 @@
 
 * [📋 INDEX](README.md)
 * [🖊 NOTATION](notation.md)
-* [🌐 Welcome to GitHub Pages](index-1.md)
+* [🌐 Notation on the GitHub (GitHub Pages)](index-1.md)
