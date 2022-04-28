@@ -40,7 +40,15 @@ Zettlr Editor
 R
 {% endembed %}
 
+{% embed url="https://bookdown.org/yihui/bookdown-demo" %}
+RStudio
+{% endembed %}
 
+#### Bookdown
+
+{% embed url="https://bookdown.org" %}
+Bookdown
+{% endembed %}
 
 #### GitBook
 
