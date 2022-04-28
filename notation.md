@@ -44,6 +44,10 @@ R
 RStudio
 {% endembed %}
 
+{% content-ref url="r.md" %}
+[r.md](r.md)
+{% endcontent-ref %}
+
 #### Bookdown
 
 {% embed url="https://bookdown.org" %}
