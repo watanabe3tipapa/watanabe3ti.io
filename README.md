@@ -25,29 +25,37 @@
 ### External link
 
 {% tabs %}
-{% tab title="1st Tab" %}
-{% embed url="https://github.com/watanabe3tipapa" %}
-{% endtab %}
-
-{% tab title="2nd Tab" %}
+{% tab title="GitHub post" %}
 {% embed url="https://github.com/watanabe3tipapa/watanabe3ti.io/tree/master/docs/_posts" %}
 {% endtab %}
 
-{% tab title="3rd Tab" %}
+{% tab title="GitHub Overview" %}
+{% embed url="https://github.com/watanabe3tipapa" %}
+{% endtab %}
+
+{% tab title="Main site" %}
 {% embed url="http://watanabe3ti.com" %}
 Main Site
 {% endembed %}
 {% endtab %}
 
-{% tab title="4th Tab" %}
+{% tab title="BLOG" %}
 {% embed url="http://watanabe3ti.txt-nifty.com" %}
 BLOG
 {% endembed %}
 {% endtab %}
 
-{% tab title="5th Tab" %}
+{% tab title="Wiki" %}
 {% embed url="https://wiki.watanabe3ti.com" %}
 BLOG（ annex）==（Wiki）
 {% endembed %}
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Else" %}
+
 {% endtab %}
 {% endtabs %}
