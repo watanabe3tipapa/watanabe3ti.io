@@ -10,7 +10,7 @@ description: Notation Differences
 
 
 
-#### 一般
+### 一般
 
 {% embed url="https://daringfireball.net/projects/markdown" %}
 
@@ -28,13 +28,13 @@ Zettlr Editor
 
 
 
-#### GitHub
+### GitHub
 
 {% embed url="https://docs.github.com/ja/get-started/writing-on-github" %}
 
 {% embed url="https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa" %}
 
-#### R
+### R
 
 {% embed url="http://kazutan.github.io/KandaiR1/md_sample.html" %}
 R
@@ -48,13 +48,15 @@ RStudio
 [r.md](r.md)
 {% endcontent-ref %}
 
-#### Bookdown
+### Bookdown
 
 {% embed url="https://bookdown.org" %}
 Bookdown
 {% endembed %}
 
-#### GitBook
+### GitBook
+
+Now experience
 
 
 
@@ -62,9 +64,7 @@ Bookdown
 
 
 
-
-
-#### Qiita
+### Qiita
 
 {% embed url="https://qiita.com/Qiita/items/c686397e4a0f4f11683d" %}
 
