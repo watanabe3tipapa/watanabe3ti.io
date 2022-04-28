@@ -18,6 +18,14 @@ description: Notation Differences
 Zettlr Editor
 {% endembed %}
 
+{% embed url="https://www.wzsoft.jp/wzme/help/markdown.html" %}
+　WZ Markdown Editor
+{% endembed %}
+
+
+
+
+
 
 
 #### GitHub
@@ -25,6 +33,12 @@ Zettlr Editor
 {% embed url="https://docs.github.com/ja/get-started/writing-on-github" %}
 
 {% embed url="https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa" %}
+
+#### R
+
+{% embed url="http://kazutan.github.io/KandaiR1/md_sample.html" %}
+R
+{% endembed %}
 
 
 
@@ -44,3 +58,6 @@ Zettlr Editor
 
 
 
+
+
+> **empathy >>** [http://kazutan.github.io/KandaiR1/](http://kazutan.github.io/KandaiR1/)
