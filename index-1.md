@@ -1,4 +1,8 @@
-# 🌐 Welcome to GitHub Pages
+---
+description: Notation Differences >> GitHub Pages
+---
+
+# 🌐 Notation on the GitHub (GitHub Pages)
 
 You can use the [editor on GitHub](https://github.com/watanabe3tipapa/watanabe3ti.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

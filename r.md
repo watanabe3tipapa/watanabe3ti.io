@@ -1,3 +1,7 @@
+---
+description: Notation Differences >> R
+---
+
 # 🔜 R
 
 ![RStudio](.gitbook/assets/Rmarkdown.jpg)

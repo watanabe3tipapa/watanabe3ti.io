@@ -2,9 +2,9 @@
 description: Notation Differences
 ---
 
-# 🖊 NOTATION
+# 🗃 NOTATION
 
-![Edit on GitHub](.gitbook/assets/editongithub.jpg)
+![Edit on GitHub](<.gitbook/assets/editongithub (1).jpg>)
 
 ### 記法の相違点をチェックする
 
@@ -31,8 +31,6 @@ Zettlr Editor
 ### GitHub
 
 {% embed url="https://docs.github.com/ja/get-started/writing-on-github" %}
-
-{% embed url="https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa" %}
 
 ### R
 
