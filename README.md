@@ -1,3 +1,7 @@
+---
+description: GitBook Page
+---
+
 # 📋 INDEX
 
 ![GitBook](.gitbook/assets/imggitbook3d.jpg)
@@ -27,10 +31,14 @@
 {% tabs %}
 {% tab title="GitHub post" %}
 {% embed url="https://github.com/watanabe3tipapa/watanabe3ti.io/tree/master/docs/_posts" %}
+source
+{% endembed %}
 {% endtab %}
 
 {% tab title="GitHub Overview" %}
 {% embed url="https://github.com/watanabe3tipapa" %}
+Overview
+{% endembed %}
 {% endtab %}
 
 {% tab title="Main site" %}
