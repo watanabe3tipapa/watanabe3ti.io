@@ -10,11 +10,9 @@
 
 
 
-### RStudioの
+### RStudio
 
 {% embed url="https://www.rstudio.com/products/rstudio" %}
-
-
 
 ### flexdashboardパッケージ
 
@@ -46,7 +44,7 @@ githubinstall::githubinstall("flexdashboard")
 
 {% embed url="https://github.com/rstudio/bookdown-demo" %}
 
-
+{% embed url="https://github.com/rstudio/bookdown" %}
 
 #### Link
 
