@@ -4,12 +4,6 @@
 
 
 
-
-
-
-
-
-
 ### RStudio
 
 {% embed url="https://www.rstudio.com/products/rstudio" %}
@@ -40,21 +34,19 @@ githubinstall::githubinstall("flexdashboard")
 
 
 
-
-
 {% embed url="https://github.com/rstudio/bookdown-demo" %}
 
 {% embed url="https://github.com/rstudio/bookdown" %}
+
+![R](.gitbook/assets/imgssrmarkdown.jpg)
+
+
 
 ### Link
 
 
 
 {% embed url="https://kazutan.github.io/kazutanR/Rmd_intro.html" %}
-
-
-
-
 
 {% embed url="https://remotes.r-lib.org" %}
 R
