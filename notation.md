@@ -62,11 +62,15 @@ Currently learning as it is a unique notation
 
 
 
-
-
 ### Qiita
 
 {% embed url="https://qiita.com/Qiita/items/c686397e4a0f4f11683d" %}
+
+
+
+### Zenn
+
+{% embed url="https://zenn.dev/zenn/articles/markdown-guide" %}
 
 
 
