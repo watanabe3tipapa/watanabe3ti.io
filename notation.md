@@ -6,11 +6,13 @@ description: Notation Differences
 
 ![Edit on GitHub](<.gitbook/assets/editongithub (1).jpg>)
 
-### 記法の相違点をチェックする
+### マークダウン記法の相違点をチェックする
 
-
+Check for differences in markdown notation
 
 ### 一般
+
+Basic notation by typical editors
 
 {% embed url="https://daringfireball.net/projects/markdown" %}
 
@@ -24,9 +26,9 @@ Zettlr Editor
 
 
 
-
-
-
+{% hint style="success" %}
+Flavors of Markdown Notation
+{% endhint %}
 
 ### GitHub
 
@@ -54,9 +56,9 @@ Bookdown
 
 ### GitBook
 
-Now experience
-
-
+{% hint style="danger" %}
+Currently learning as it is a unique notation
+{% endhint %}
 
 
 
@@ -68,6 +70,6 @@ Now experience
 
 
 
+個人的には　**Rマークダウン** が好み
 
-
-> **empathy >>** [http://kazutan.github.io/KandaiR1/](http://kazutan.github.io/KandaiR1/)
+> **empathy >>** [**https://kazutan.github.io/kazutanR/Rmd\_intro.html**](https://kazutan.github.io/kazutanR/Rmd\_intro.html)****
