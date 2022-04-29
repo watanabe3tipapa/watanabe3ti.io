@@ -44,12 +44,18 @@ description: GitBook Page
 {% endtab %}
 
 {% tab title="page6" %}
+{% content-ref url="notion.md" %}
+[notion.md](notion.md)
+{% endcontent-ref %}
+{% endtab %}
+
+{% tab title="page7" %}
 {% content-ref url="sketchbook.md" %}
 [sketchbook.md](sketchbook.md)
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="page7" %}
+{% tab title="page" %}
 {% content-ref url="bian-ji-zhong.md" %}
 [bian-ji-zhong.md](bian-ji-zhong.md)
 {% endcontent-ref %}
