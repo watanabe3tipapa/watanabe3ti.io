@@ -38,6 +38,18 @@ description: GitBook Page
 {% endtab %}
 
 {% tab title="page5" %}
+{% content-ref url="font.md" %}
+[font.md](font.md)
+{% endcontent-ref %}
+{% endtab %}
+
+{% tab title="page6" %}
+{% content-ref url="sketchbook.md" %}
+[sketchbook.md](sketchbook.md)
+{% endcontent-ref %}
+{% endtab %}
+
+{% tab title="page7" %}
 {% content-ref url="bian-ji-zhong.md" %}
 [bian-ji-zhong.md](bian-ji-zhong.md)
 {% endcontent-ref %}
