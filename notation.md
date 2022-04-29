@@ -72,6 +72,20 @@ Currently learning as it is a unique notation
 
 {% embed url="https://zenn.dev/zenn/articles/markdown-guide" %}
 
+### Pandoc
+
+{% embed url="https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html" %}
+
+**Haskell**
+
+{% embed url="https://www.haskell.org" %}
+
+{% embed url="https://wiki.haskell.org/Haskell" %}
+
+
+
+
+
 
 
 個人的には　**Rマークダウン** が好み
