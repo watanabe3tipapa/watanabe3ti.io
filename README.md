@@ -38,14 +38,14 @@ description: GitBook Page
 {% endtab %}
 
 {% tab title="page5" %}
-{% content-ref url="font.md" %}
-[font.md](font.md)
+{% content-ref url="notion.md" %}
+[notion.md](notion.md)
 {% endcontent-ref %}
 {% endtab %}
 
 {% tab title="page6" %}
-{% content-ref url="notion.md" %}
-[notion.md](notion.md)
+{% content-ref url="font.md" %}
+[font.md](font.md)
 {% endcontent-ref %}
 {% endtab %}
 
