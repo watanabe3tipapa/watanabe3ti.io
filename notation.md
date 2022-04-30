@@ -72,6 +72,16 @@ Currently learning as it is a unique notation
 
 {% embed url="https://zenn.dev/zenn/articles/markdown-guide" %}
 
+\===
+
+
+
+### <mark style="background-color:orange;">Ruby</mark>
+
+{% embed url="https://pleiades.io/help/ruby/markdown.html" %}
+
+
+
 ### <mark style="background-color:orange;">Pandoc</mark>
 
 {% embed url="https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html" %}
