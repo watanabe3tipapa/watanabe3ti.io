@@ -4,7 +4,7 @@ description: Grav-markdown-syntax
 
 # 🔍 Grav
 
-Flat-File CMS（Grav）記法です。公式サイトでは"構文"の語で紹介されています。
+
 
 ## Grav-マークダウン構文
 
@@ -37,7 +37,7 @@ Markdown構文を使用することには多くの利点がありますが、そ
     ######my new Heading
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -53,7 +53,7 @@ Markdown構文を使用することには多くの利点がありますが、そ
 -->
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -82,7 +82,7 @@ It is a way of writing your plain text in an easy to read and write format,
 which later gets converted into HTML code.
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -102,7 +102,7 @@ which later gets converted into HTML code.
 The newest articles from* *Advance Online Publication (AOP)** and the current issue.
 ```
 
-
+Copy
 
 この例では、\*「Advance Online Publication（AOP）」\*の単語を太字で表示する必要があります。
 
@@ -120,7 +120,7 @@ The newest articles from* *Advance Online Publication (AOP)** and the current is
 The newest articles from _Advance Online Publication_ (AOP) and the current issues.
 ```
 
-
+Copy
 
 この例では、**「Advance Online Publication」**（AOP）の単語を斜体にする必要があります。
 
@@ -138,7 +138,7 @@ The newest articles from _Advance Online Publication_ (AOP) and the current issu
 The newest articles from ~~Advance Online Publication~~ (AOP) and the current issues.
 ```
 
-
+Copy
 
 この例では、「Advance Online Publication」（AOP）という言葉を打つ必要があります。
 
@@ -156,7 +156,7 @@ The newest articles from ~~Advance Online Publication~~ (AOP) and the current is
 >The newest articles from Advance Online Publication (AOP) and the current issues.
 ```
 
-
+Copy
 
 この例では、文の前に>記号を使用しています。
 
@@ -171,7 +171,7 @@ Blockquoteは次の方法でも使用できます-
 >>> The newest articles from Advance Online Publication (AOP) and the current issues.
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -183,7 +183,7 @@ Blockquoteは次の方法でも使用できます-
 
 通知には、黄色、赤、青、緑の4種類があります。
 
-#### <mark style="background-color:yellow;">黄</mark>
+#### 黄
 
 **！>> \*情報を説明する黄色の通知タイプの前に \*>>>** 記号を使用する必要があります。
 
@@ -195,9 +195,9 @@ mediators of fast neurotransmission throughout the nervous system and are implic
 in many neurological disorders.
 ```
 
+Copy
 
-
-#### <mark style="background-color:red;">Red</mark>
+#### Red
 
 警告の赤い通知の前に4つの **>>>>** 記号を使用します。
 
@@ -209,9 +209,9 @@ mediators of fast neurotransmission throughout the nervous system and are implic
 in many neurological disorders.
 ```
 
+Copy
 
-
-#### <mark style="background-color:blue;">Blue</mark>
+#### Blue
 
 青の通知タイプには5つの **>>>>>** 記号を使用します。これはメモを表します。
 
@@ -223,9 +223,9 @@ mediators of fast neurotransmission throughout the nervous system and are implic
 in many neurological disorders.
 ```
 
+Copy
 
-
-#### <mark style="background-color:green;">緑</mark>
+#### 緑
 
 緑の通知タイプの前に6つの **>>>>>>** 記号を使用します。これはヒントを説明しています。
 
@@ -237,7 +237,7 @@ mediators of fast neurotransmission throughout the nervous system and are implic
 in many neurological disorders.
 ```
 
-
+Copy
 
 ブラウザでmdファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -263,7 +263,7 @@ in many neurological disorders.
   * Bullet
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -281,7 +281,7 @@ in many neurological disorders.
 3. Green Tea
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage** として開きます。 これにより、次の結果が得られます-
 
@@ -301,7 +301,7 @@ in many neurological disorders.
 In the given example, '<section></section>' must be converted into code.
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage** として開くと、次の結果が表示されます-
 
@@ -320,7 +320,7 @@ You’re Text Here
 ```
 ````
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -340,7 +340,7 @@ Gravでは、ヘッダーセクションの下のパイプとダッシュを使�
 |   3     | Adam Johnson 67 |
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -358,7 +358,7 @@ Gravでは、ヘッダーセクションの下のパイプとダッシュを使�
 |   3    | Adam Johnson 67 |
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -378,7 +378,7 @@ Gravでは、ヘッダーセクションの下のパイプとダッシュを使�
 [Follow the Given link](http://www.google.com)
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
@@ -394,7 +394,7 @@ Gravでは、ヘッダーセクションの下のパイプとダッシュを使�
 [Google](https://www.gogle.com/google/"Visit Google!")
 ```
 
-
+Copy
 
 ブラウザで\_.md\_ファイルを **localhost/Grav/mypage;** として開きます。次の結果が表示されます-
 
