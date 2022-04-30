@@ -4,7 +4,7 @@ description: Notation Differences >> GitHub
 
 # 🔜 Git Hub
 
-GitHub >> << Git Book
+### <mark style="background-color:purple;">GitHub >> << Git Book</mark>
 
 ![Edit on GitHub](.gitbook/assets/editongithub.jpg)
 
