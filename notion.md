@@ -472,7 +472,7 @@ Web上には日本で使われているテンプレートだけでなく、実�
 
 
 
-
+![mermaid：code & split](.gitbook/assets/mermaidsample.jpg)
 
 
 
