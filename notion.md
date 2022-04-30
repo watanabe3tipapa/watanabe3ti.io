@@ -4,7 +4,7 @@
 
 ![a Page](.gitbook/assets/IMGSSnotion.jpg)
 
-## <mark style="background-color:yellow;">しくみ</mark>
+## <mark style="background-color:blue;">しくみ</mark>
 
 ### 基本
 
@@ -116,7 +116,7 @@ TODOの管理や ちょっとしたチェックリストに最適。
 
 
 
-## <mark style="background-color:orange;">実践</mark>
+## <mark style="background-color:blue;">実践</mark>
 
 ### 1．ショートカットキーを活用する
 
