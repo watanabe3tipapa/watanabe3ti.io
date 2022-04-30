@@ -80,7 +80,9 @@ Currently learning as it is a unique notation
 
 {% embed url="https://pleiades.io/help/ruby/markdown.html" %}
 
-
+{% hint style="warning" %}
+関連事項：再フォーマットと変換
+{% endhint %}
 
 ### <mark style="background-color:orange;">Pandoc</mark>
 
