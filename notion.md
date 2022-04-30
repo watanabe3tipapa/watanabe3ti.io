@@ -116,7 +116,7 @@ TODOの管理や ちょっとしたチェックリストに最適。
 
 
 
-## 実践
+## <mark style="background-color:orange;">実践</mark>
 
 ### 1．ショートカットキーを活用する
 
