@@ -6,11 +6,11 @@ description: Notation Differences
 
 ![Edit on GitHub](<.gitbook/assets/editongithub (1).jpg>)
 
-### マークダウン記法の相違点をチェックする
+### <mark style="background-color:purple;">マークダウン記法の相違点をチェックする</mark>
 
 Check for differences in markdown notation
 
-### 一般
+### <mark style="background-color:blue;">一般</mark>
 
 Basic notation by typical editors
 
@@ -30,11 +30,11 @@ Zettlr Editor
 Flavors of Markdown Notation
 {% endhint %}
 
-### GitHub
+### <mark style="background-color:blue;">GitHub</mark>
 
 {% embed url="https://docs.github.com/ja/get-started/writing-on-github" %}
 
-### R
+### <mark style="background-color:blue;">R</mark>
 
 {% embed url="http://kazutan.github.io/KandaiR1/md_sample.html" %}
 R
@@ -48,13 +48,13 @@ RStudio
 [r.md](r.md)
 {% endcontent-ref %}
 
-### Bookdown
+### <mark style="background-color:blue;">Bookdown</mark>
 
 {% embed url="https://bookdown.org" %}
 Bookdown
 {% endembed %}
 
-### GitBook
+### <mark style="background-color:blue;">GitBook</mark>
 
 {% hint style="danger" %}
 Currently learning as it is a unique notation
@@ -62,21 +62,21 @@ Currently learning as it is a unique notation
 
 
 
-### Qiita
+### <mark style="background-color:blue;">Qiita</mark>
 
 {% embed url="https://qiita.com/Qiita/items/c686397e4a0f4f11683d" %}
 
 
 
-### Zenn
+### <mark style="background-color:blue;">Zenn</mark>
 
 {% embed url="https://zenn.dev/zenn/articles/markdown-guide" %}
 
-### Pandoc
+### <mark style="background-color:orange;">Pandoc</mark>
 
 {% embed url="https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html" %}
 
-**Haskell**
+### <mark style="background-color:orange;">**Haskell**</mark>
 
 {% embed url="https://www.haskell.org" %}
 
