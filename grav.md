@@ -4,7 +4,7 @@ description: Grav-markdown-syntax
 
 # 🔍 Grav
 
-
+Flat-File CMS（Grav）記法です。公式サイトでは"構文"の語で紹介されています。
 
 ## Grav-マークダウン構文
 
