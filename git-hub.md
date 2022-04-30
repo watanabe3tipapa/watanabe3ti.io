@@ -8,13 +8,13 @@ GitHub >> << Git Book
 
 ![Edit on GitHub](.gitbook/assets/editongithub.jpg)
 
-### 基本
+### <mark style="background-color:blue;">基本</mark>
 
 {% embed url="https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa#file-markdown-cheatsheet-md" %}
 Notation >> GitHub
 {% endembed %}
 
-## GitHub Flavored Markdown Spec
+### <mark style="background-color:blue;">GitHub Flavored Markdown Spec</mark>
 
 #### [https://github.github.com/gfm/](https://github.github.com/gfm/)
 
