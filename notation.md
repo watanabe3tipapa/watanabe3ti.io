@@ -56,7 +56,7 @@ Bookdown
 
 ### <mark style="background-color:blue;">GitBook</mark>
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Currently learning as it is a unique notation
 {% endhint %}
 
