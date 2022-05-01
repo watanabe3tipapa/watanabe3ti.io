@@ -14,6 +14,12 @@ Check for differences in markdown notation
 
 Basic notation by typical editors
 
+#### VScode
+
+![VScode](<.gitbook/assets/IMGSSVSCODE (1).jpg>)
+
+#### Other Editors
+
 {% embed url="https://daringfireball.net/projects/markdown" %}
 
 {% embed url="https://docs.zettlr.com/ja" %}
