@@ -56,6 +56,8 @@ Bookdown
 
 ### <mark style="background-color:blue;">GitBook</mark>
 
+What you can and can't do with Gitbook.
+
 {% hint style="info" %}
 Currently learning as it is a unique notation
 {% endhint %}
