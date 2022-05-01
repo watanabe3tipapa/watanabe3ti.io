@@ -446,9 +446,13 @@ Notionのテンプレートを使うにはまず、表示画面の【テンプ�
 
 Notionでは初めから用意されているテンプレートだけでなく他の人が作ったページもテンプレートとして使用することができます。ネットには、様々な人がNotionテンプレートを提供してくれているため、その人たちのテンプレートを簡単に利用することができます。
 
-方法としては、まず以下のURLから
+~~方法としては、まず以下のURLから~~
 
-そして自分が使いたいテンプレートを選択し、「テンプレート」と書かれている部分の下のテキストをクリックします。
+<mark style="background-color:red;">後日追記</mark>
+
+~~~~
+
+自分が使いたいテンプレートを選択し、「テンプレート」と書かれている部分の下のテキストをクリックします。
 
 ![](https://nocodejapan.org/media/wp-content/uploads/2021/10/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2021-10-21-18.29.31-scaled.jpg)
 
@@ -468,11 +472,15 @@ Web上には日本で使われているテンプレートだけでなく、実�
 
 
 
-#### mermaid などは　code block で編集できる
-
-
+#### mermaid などは　code block で編集できます
 
 ![mermaid：code & split](.gitbook/assets/mermaidsample.jpg)
+
+
+
+### embed：万能なショートカット)について
+
+<mark style="background-color:red;">後日</mark>
 
 
 
