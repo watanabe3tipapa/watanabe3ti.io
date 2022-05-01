@@ -76,9 +76,7 @@ description: GitBook Page
 
 {% tabs %}
 {% tab title="GitHub post" %}
-{% embed url="https://github.com/watanabe3tipapa/watanabe3ti.io/tree/master/docs/_posts" %}
-source
-{% endembed %}
+{% embed url="https://github.com/watanabe3tipapa/watanabe3ti.io" %}
 {% endtab %}
 
 {% tab title="GitHub Overview" %}
