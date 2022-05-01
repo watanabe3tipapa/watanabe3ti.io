@@ -88,9 +88,7 @@ Overview
 {% endtab %}
 
 {% tab title="Main site" %}
-{% embed url="http://watanabe3ti.com" %}
-Main Site
-{% endembed %}
+{% embed url="http://watanabe3ti.com/jp" %}
 {% endtab %}
 
 {% tab title="BLOG" %}
