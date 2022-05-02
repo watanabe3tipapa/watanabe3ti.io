@@ -107,8 +107,8 @@ BLOG（ annex）==（Wiki）
 {% embed url="https://toolsmith.watanabe3ti.com" %}
 {% endtab %}
 
-{% tab title="Else" %}
-
+{% tab title="Blog Archives" %}
+{% embed url="https://blogs.watanabe3ti.com" %}
 {% endtab %}
 {% endtabs %}
 
