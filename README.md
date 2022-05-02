@@ -52,12 +52,18 @@ description: I write markdown notation and syntax for each service.
 {% endtab %}
 
 {% tab title="page7" %}
+{% content-ref url="wiki.js.md" %}
+[wiki.js.md](wiki.js.md)
+{% endcontent-ref %}
+{% endtab %}
+
+{% tab title="page8" %}
 {% content-ref url="font.md" %}
 [font.md](font.md)
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="page8" %}
+{% tab title="page9" %}
 {% content-ref url="sketchbook.md" %}
 [sketchbook.md](sketchbook.md)
 {% endcontent-ref %}
