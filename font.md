@@ -6,7 +6,11 @@ description: After notation, the next thing to keep in mind is Font
 
 **FONTも重要**
 
-&#x20;
+
+
+{% embed url="https://fonts.google.com/noto/specimen/Noto+Emoji" %}
+
+
 
 {% embed url="https://brand.fontworks.co.jp" %}
 
