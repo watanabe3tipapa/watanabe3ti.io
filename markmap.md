@@ -14,11 +14,9 @@ Repo
 
 ![Example in VS Code](.gitbook/assets/imgssmarkmap2.jpg)
 
+![Example in VS Code](<.gitbook/assets/imgssmarkmap3 (1).jpg>)
+
 ![Example in VS Code](.gitbook/assets/imgssmarkmap3.jpg)
-
-
-
-
 
 
 
