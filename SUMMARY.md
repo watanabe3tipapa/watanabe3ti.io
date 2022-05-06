@@ -12,3 +12,4 @@
 * [🗒 sketchbook](sketchbook.md)
 * [✏ 編集中](bian-ji-zhong.md)
 * [🔜 Markmap](markmap.md)
+* [📕 Boost Note](boost-note.md)
