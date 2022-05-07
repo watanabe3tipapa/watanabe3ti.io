@@ -4,6 +4,36 @@ description: Notation Differences >> GitHub Pages
 
 # 🌐 Notation on the GitHub (GitHub Pages)
 
+\## Useful references
+
+
+
+\* \[Github Markdown basics]\(https://help.github.com/articles/markdown-basics/)
+
+\* \[Github flavored Markdown]\(https://help.github.com/articles/github-flavored-markdown/)
+
+\* \[Original Markdown spec: Syntax]\(http://daringfireball.net/projects/markdown/syntax)
+
+\* \[Original Markdown spec: Basics]\(http://daringfireball.net/projects/markdown/basics)
+
+\* \[marked.js library used by Colab]\(https://github.com/chjj/marked)
+
+\* \[LaTex mathematics for equations]\(https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Markdown
