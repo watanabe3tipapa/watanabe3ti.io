@@ -8,7 +8,7 @@
 * [📓 Notion](notion.md)
 * [📕 Boost Note](boost-note.md)
 * [📗 Obsidian](obsidian.md)
-* [📘 Logseg](logseg.md)
+* [📘 Logseq](logseq.md)
 * [🔍 Grav](grav.md)
 * [🔍 Wiki.js](wiki.js.md)
 * [✔ FONT](font.md)
