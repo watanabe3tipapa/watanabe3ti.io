@@ -12,6 +12,7 @@
 * [🔍 Grav](grav.md)
 * [🔍 Wiki.js](wiki.js.md)
 * [✔ FONT](font.md)
+* [🖋 VFM (Vivliostyle Flavored Markdown)](vfm-vivliostyle-flavored-markdown.md)
 * [🔜 Markmap](markmap.md)
 * [🗒 sketchbook](sketchbook.md)
 * [✏ 編集中](bian-ji-zhong.md)
