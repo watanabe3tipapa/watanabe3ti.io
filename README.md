@@ -52,6 +52,10 @@ description: I write markdown notation and syntax for each service.
 {% endtab %}
 
 {% tab title="page7" %}
+Obsidian
+{% endtab %}
+
+{% tab title="page7" %}
 {% content-ref url="grav.md" %}
 [grav.md](grav.md)
 {% endcontent-ref %}
