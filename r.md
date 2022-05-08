@@ -4,6 +4,10 @@ description: Notation Differences >> R
 
 # 🔜 R
 
+{% hint style="warning" %}
+<mark style="background-color:orange;">**For R, let's use Rstudio quickly!**</mark>
+{% endhint %}
+
 ![RStudio](.gitbook/assets/Rmarkdown.jpg)
 
 
