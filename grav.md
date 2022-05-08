@@ -4,6 +4,8 @@ description: Grav-markdown-syntax
 
 # 🔍 Grav
 
+> <mark style="background-color:green;">**Flat-File CMS used on the main site**</mark>
+
 Flat-File CMS（Grav）記法です。公式サイトでは"構文"の語で紹介されています。
 
 ## Grav-マークダウン構文

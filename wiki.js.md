@@ -4,7 +4,7 @@ description: Notation in wiki.js, an excellent wiki tool
 
 # 🔍 Wiki.js
 
-> <mark style="background-color:yellow;">**Excerpt from the official website**</mark>
+> <mark style="background-color:green;">**Excerpt from the official website**</mark>
 
 ## Editors
 
