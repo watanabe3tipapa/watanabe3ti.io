@@ -52,40 +52,44 @@ description: I write markdown notation and syntax for each service.
 {% endtab %}
 
 {% tab title="page7" %}
-Obsidian
+{% embed url="https://obsidian.md" %}
 {% endtab %}
 
-{% tab title="page7" %}
+{% tab title="page8" %}
+{% embed url="https://logseq.com" %}
+{% endtab %}
+
+{% tab title="page9" %}
 {% content-ref url="grav.md" %}
 [grav.md](grav.md)
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="page8" %}
+{% tab title="page10" %}
 {% content-ref url="wiki.js.md" %}
 [wiki.js.md](wiki.js.md)
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="page9" %}
+{% tab title="page11" %}
 {% content-ref url="font.md" %}
 [font.md](font.md)
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="page10" %}
+{% tab title="page12" %}
 {% content-ref url="markmap.md" %}
 [markmap.md](markmap.md)
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="page11" %}
+{% tab title="page13" %}
 {% content-ref url="sketchbook.md" %}
 [sketchbook.md](sketchbook.md)
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="page" %}
+{% tab title="pageX" %}
 {% content-ref url="bian-ji-zhong.md" %}
 [bian-ji-zhong.md](bian-ji-zhong.md)
 {% endcontent-ref %}
