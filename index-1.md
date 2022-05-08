@@ -4,6 +4,14 @@ description: Notation Differences >> GitHub Pages
 
 # 🌐 Notation on the GitHub (GitHub Pages)
 
+## GitHub Flavored Markdown Spec
+
+{% embed url="https://github.github.com/gfm" %}
+URL
+{% endembed %}
+
+\---
+
 ### Useful references
 
 
