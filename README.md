@@ -77,6 +77,12 @@ description: I write markdown notation and syntax for each service.
 {% endcontent-ref %}
 {% endtab %}
 
+{% tab title="page11" %}
+{% content-ref url="vfm-vivliostyle-flavored-markdown.md" %}
+[vfm-vivliostyle-flavored-markdown.md](vfm-vivliostyle-flavored-markdown.md)
+{% endcontent-ref %}
+{% endtab %}
+
 {% tab title="page12" %}
 {% content-ref url="markmap.md" %}
 [markmap.md](markmap.md)
