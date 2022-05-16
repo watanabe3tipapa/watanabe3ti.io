@@ -16,7 +16,7 @@ The advantage is to take advantage of the include function
 
 {% embed url="https://github.com/The-Lum/puml-themes-gallery" %}
 
-
+{% embed url="https://github.com/marketplace/actions/generate-plantuml" %}
 
 
 
