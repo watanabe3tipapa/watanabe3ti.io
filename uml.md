@@ -24,11 +24,17 @@ The advantage is to take advantage of the include function
 Site
 {% endembed %}
 
-```mermaid
-```
+<mark style="color:purple;background-color:yellow;">GitBook でも編集可能です</mark>
 
 ```mermaid
 ```
 
+```mermaid
+graph TD
+  Mermaid --> Diagram
+  Mermaid --> Syntax_error_("キャラ数")
+ 
+```
 
+<figure><img src=".gitbook/assets/IMGSSmermaidsyntaxerror.jpg" alt=""><figcaption><p>Syntax error： a_b_c </p></figcaption></figure>
 
