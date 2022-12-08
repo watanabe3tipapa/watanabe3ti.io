@@ -9,6 +9,7 @@
 * [📕 Boost Note](boost-note.md)
 * [📗 Obsidian](obsidian.md)
 * [📘 Logseq](logseq.md)
+* [📓 Joplin](joplin.md)
 * [📜 Grav](grav.md)
 * [📖 Wiki.js](wiki.js.md)
 * [📙 VFM (Vivliostyle Flavored Markdown)](vfm-vivliostyle-flavored-markdown.md)
@@ -18,4 +19,4 @@
 * [🖊 Zenn](zenn.md)
 * [📇 FONT](font.md)
 * [✏ 編集中](bian-ji-zhong.md)
-* [📓 Joplin](joplin.md)
+* [📝 Lexical --- Playground](lexical-playground.md)

@@ -1,6 +1,6 @@
 # 📊 UML
 
-Plant UML
+### Plant UML
 
 {% embed url="https://plantuml.com/ja/" %}
 Site
