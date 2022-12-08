@@ -2,7 +2,7 @@
 description: I'll try different things and write them down.
 ---
 
-# 🗒 sketchbook
+# 📋 sketchbook
 
 ### ちょっと落書き
 

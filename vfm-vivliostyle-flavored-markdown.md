@@ -1,3 +1,3 @@
-# 🖋 VFM (Vivliostyle Flavored Markdown)
+# 📙 VFM (Vivliostyle Flavored Markdown)
 
 {% embed url="https://github.com/vivliostyle/vfm" %}

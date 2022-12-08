@@ -2,7 +2,7 @@
 description: After notation, the next thing to keep in mind is Font
 ---
 
-# ✔ FONT
+# 📇 FONT
 
 **FONTも重要**
 

@@ -2,7 +2,7 @@
 description: Notation in wiki.js, an excellent wiki tool
 ---
 
-# 🔍 Wiki.js
+# 📖 Wiki.js
 
 > <mark style="background-color:green;">**Excerpt from the official website**</mark>
 
@@ -98,7 +98,7 @@ Note that you can use any header level, as long as the children headers are one 
 
 Markdown is a lightweight markup language with plain text formatting syntax. It's the de-facto syntax for writing documentation on major code repositories such as GitHub.
 
-Wiki.js supports the full [CommonMark specification](https://spec.commonmark.org) + adds some useful extensions (including the Github Flavored Markdown addons).
+Wiki.js supports the full [CommonMark specification](https://spec.commonmark.org/) + adds some useful extensions (including the Github Flavored Markdown addons).
 
 ### User Guide <a href="#user-guide" id="user-guide"></a>
 
@@ -236,7 +236,7 @@ Using an **number**, followed by a **dot** symbol, followed by a space, before e
 
 Using a code block with the language **plantuml**.
 
-Refer to [PlantUML website](https://plantuml.com) for the language reference.
+Refer to [PlantUML website](https://plantuml.com/) for the language reference.
 
 ### Strikethrough <a href="#strikethrough" id="strikethrough"></a>
 

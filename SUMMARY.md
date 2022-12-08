@@ -3,7 +3,7 @@
 * [📋 INDEX](README.md)
 * [🗃 NOTATION](notation.md)
 * [🌐 Notation on the GitHub (GitHub Pages)](index-1.md)
-* [🔜 Git Hub](git-hub.md)
+* [🔜 GitHub](github.md)
 * [🔜 R](r.md)
 * [📓 Notion](notion.md)
 * [📕 Boost Note](boost-note.md)

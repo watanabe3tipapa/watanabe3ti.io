@@ -2,7 +2,7 @@
 description: Grav-markdown-syntax
 ---
 
-# 🔍 Grav
+# 📜 Grav
 
 > <mark style="background-color:green;">**Flat-File CMS used on the main site**</mark>
 

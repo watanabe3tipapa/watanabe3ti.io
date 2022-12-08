@@ -30,8 +30,8 @@ source
 {% endtab %}
 
 {% tab title="page3" %}
-{% content-ref url="git-hub.md" %}
-[git-hub.md](git-hub.md)
+{% content-ref url="github.md" %}
+[github.md](github.md)
 {% endcontent-ref %}
 {% endtab %}
 
