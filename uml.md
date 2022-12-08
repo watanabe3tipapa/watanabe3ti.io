@@ -18,9 +18,9 @@ The advantage is to take advantage of the include function
 
 {% embed url="https://github.com/marketplace/actions/generate-plantuml" %}
 
-### Mermaid Notation & Usage
 
-{% embed url="https://mermaid-js.github.io/mermaid/" %}
+
+
 
 
 
