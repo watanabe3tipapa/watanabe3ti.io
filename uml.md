@@ -21,6 +21,14 @@ The advantage is to take advantage of the include function
 ### Mermaid Notation & Usage
 
 {% embed url="https://mermaid-js.github.io/mermaid/" %}
+Site
+{% endembed %}
+
+```mermaid
+```
+
+```mermaid
+```
 
 
 
