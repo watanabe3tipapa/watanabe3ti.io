@@ -2,7 +2,7 @@
 description: Notation Differences >> GitHub
 ---
 
-# 🔜 Git Hub
+# 🔜 GitHub
 
 ### <mark style="background-color:purple;">GitHub >> << Git Book</mark>
 
