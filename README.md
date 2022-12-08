@@ -4,15 +4,17 @@ description: I write markdown notation and syntax for each service.
 
 # 📋 INDEX
 
-
-
-![GitBook](.gitbook/assets/imggitbook3d.jpg)
+###
 
 ### Link
 
 {% tabs %}
 {% tab title="MENU" %}
-&#x20;**MENU：watanabe3ti.io**
+&#x20;**MENU：Markdown.dev**
+
+{% embed url="https://github.com/watanabe3tipapa/markdown.dev" %}
+source
+{% endembed %}
 {% endtab %}
 
 {% tab title="page1" %}
@@ -102,11 +104,13 @@ description: I write markdown notation and syntax for each service.
 {% endtab %}
 {% endtabs %}
 
+
+
 ### External link
 
 {% tabs %}
 {% tab title="GitHub post" %}
-{% embed url="https://github.com/watanabe3tipapa/watanabe3ti.io" %}
+
 {% endtab %}
 
 {% tab title="GitHub Overview" %}
@@ -139,6 +143,8 @@ BLOG（ annex）==（Wiki）
 {% embed url="https://blogs.watanabe3ti.com" %}
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
