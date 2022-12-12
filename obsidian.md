@@ -10,7 +10,7 @@ description: //
 
 
 
-
+{% embed url="https://obsidian.md/" %}
 
 
 
