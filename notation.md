@@ -21,6 +21,8 @@ Basic notation by typical editors
 #### Other Editors
 
 {% embed url="https://daringfireball.net/projects/markdown" %}
+Fireball
+{% endembed %}
 
 {% embed url="https://docs.zettlr.com/ja" %}
 Zettlr Editor
@@ -105,6 +107,10 @@ Currently learning as it is a unique notation
 {% embed url="https://markdown-it.github.io" %}
 node.js
 {% endembed %}
+
+
+
+
 
 
 

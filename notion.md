@@ -8,6 +8,10 @@ description: Basically
 <mark style="background-color:green;">**Stable tools**</mark>
 {% endhint %}
 
+
+
+{% embed url="https://www.notion.so/ja-jp/product" %}
+
 ### The notation of NOTION is also unique
 
 ![a Page](.gitbook/assets/IMGSSnotion.jpg)
