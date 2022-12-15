@@ -12,6 +12,10 @@ description: Notation Differences >> GitHub
 URL
 {% endembed %}
 
+{% embed url="https://github.com/github/markup" %}
+URL
+{% endembed %}
+
 ### <mark style="background-color:blue;">基本</mark>
 
 {% embed url="https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa#file-markdown-cheatsheet-md" %}
