@@ -10,6 +10,14 @@ description: >-
 Evidence は MarkdownにSQLクエリやグラフの設定を記載し、レポート用の静的なHTMLドキュメントを作成するツールです。
 {% endhint %}
 
+**VSCode Extension**
+
+<figure><img src=".gitbook/assets/IMGSS 20221219evidence_vscide_extension.jpg" alt=""><figcaption><p>SS</p></figcaption></figure>
+
+{% embed url="https://marketplace.visualstudio.com/items?itemName=Evidence.evidence-vscode" %}
+URL
+{% endembed %}
+
 {% embed url="https://docs.evidence.dev/getting-started/install-evidence" %}
 URL
 {% endembed %}
