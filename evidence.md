@@ -8,8 +8,6 @@ description: >-
 
 {% hint style="info" %}
 Evidence は MarkdownにSQLクエリやグラフの設定を記載し、レポート用の静的なHTMLドキュメントを作成するツールです。
-
-
 {% endhint %}
 
 {% embed url="https://docs.evidence.dev/getting-started/install-evidence" %}
