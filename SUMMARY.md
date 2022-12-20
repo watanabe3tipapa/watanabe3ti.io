@@ -14,7 +14,7 @@
 * [📖 Wiki.js](wiki.js.md)
 * [📙 VFM (Vivliostyle Flavored Markdown)](vfm-vivliostyle-flavored-markdown.md)
 * [🔜 Markmap](markmap.md)
-* [📊 UML](uml.md)
+* [📊 Diagram](diagram.md)
 * [📋 sketchbook](sketchbook.md)
 * [🖊 Zenn](zenn.md)
 * [🖋 Qiita](qiita.md)

@@ -1,4 +1,22 @@
-# 📊 UML
+---
+description: text to diagram
+---
+
+# 📊 Diagram
+
+{% embed url="https://text-to-diagram.com/" %}
+URL
+{% endembed %}
+
+{% embed url="https://github.com/terrastruct/text-to-diagram-site" %}
+URL
+{% endembed %}
+
+### D2
+
+{% embed url="https://d2lang.com/" %}
+URL
+{% endembed %}
 
 ### Plant UML
 
@@ -37,4 +55,8 @@ graph TD
 ```
 
 <figure><img src=".gitbook/assets/IMGSSmermaidsyntaxerror.jpg" alt=""><figcaption><p>Syntax error： a_b_c </p></figcaption></figure>
+
+{% embed url="https://xosh.org/text-to-diagram/" %}
+URL
+{% endembed %}
 
