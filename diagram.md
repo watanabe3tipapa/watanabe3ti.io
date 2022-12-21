@@ -56,6 +56,15 @@ graph TD
 
 <figure><img src=".gitbook/assets/IMGSSmermaidsyntaxerror.jpg" alt=""><figcaption><p>Syntax error： a_b_c </p></figcaption></figure>
 
+
+
+```mermaid
+::: mermaid
+ graph LR;
+ A[Wiki supports Mermaid] --> B[Visit https://mermaidjs.github.io/ for Mermaid syntax];
+:::
+```
+
 {% embed url="https://xosh.org/text-to-diagram/" %}
 URL
 {% endembed %}
