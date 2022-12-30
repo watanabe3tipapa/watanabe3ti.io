@@ -26,3 +26,5 @@ URL
 Repo
 {% endembed %}
 
+<figure><img src=".gitbook/assets/SS_evidence.jpg" alt=""><figcaption><p>Localhost:3000</p></figcaption></figure>
+
