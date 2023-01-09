@@ -8,6 +8,7 @@
 * [📓 Notion](notion.md)
 * [📕 Boost Note](boost-note.md)
 * [📗 Obsidian](obsidian.md)
+* [📚 livebook](livebook.md)
 * [📘 Logseq](logseq.md)
 * [📓 Joplin](joplin.md)
 * [📜 Grav](grav.md)
