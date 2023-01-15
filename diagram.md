@@ -69,3 +69,7 @@ graph TD
 URL
 {% endembed %}
 
+{% embed url="https://mermaid.live/" %}
+Sandbox
+{% endembed %}
+
