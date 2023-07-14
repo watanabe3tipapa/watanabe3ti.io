@@ -20,7 +20,7 @@
 * [🖊 Zenn](zenn.md)
 * [🖋 Qiita](qiita.md)
 * [📝 Lexical --- Playground](lexical-playground.md)
+* [🧾 Jupyter Book](jupyter-book.md)
 * [📇 FONT](font.md)
 * [💾 Evidence](evidence.md)
 * [✏ 編集中](bian-ji-zhong.md)
-* [Jupyter Book](jupyter-book.md)
