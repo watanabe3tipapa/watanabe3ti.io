@@ -78,9 +78,9 @@ $$
 
 <mark style="background-color:purple;">**external link**</mark>
 
-> caution&#x20;
+> > #### warning
 >
-> 以下は、リンクを示すものであり、当該の方法でColabに接続することは禁じられています
+> 以下は、**リンク**の用例であり、当該の方法でColabに接続することは禁じられています
 
 {% embed url="https://github.com/watanabe3tipapa/GoogleColaboratory/blob/main/method4colab_ssh.ipynb" %}
 GitHub
