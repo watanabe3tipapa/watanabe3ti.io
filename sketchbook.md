@@ -46,7 +46,7 @@ grub_calloc (grub_size_t nmemb, grub_size_t size)
 
 <mark style="background-color:blue;">**Table**</mark>
 
-<table><thead><tr><th data-type="checkbox"></th><th data-type="number"></th><th data-type="select"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>true</td><td>null</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>true</td><td>null</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>true</td><td>null</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>true</td><td>null</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="150" data-type="checkbox"></th><th data-type="number"></th><th width="150" data-type="select"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>true</td><td>null</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>true</td><td>null</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>true</td><td>null</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>true</td><td>null</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -77,6 +77,10 @@ $$
 
 
 <mark style="background-color:purple;">**external link**</mark>
+
+> caution&#x20;
+>
+> 以下は、リンクを示すものであり、当該の方法でColabに接続することは禁じられています
 
 {% embed url="https://github.com/watanabe3tipapa/GoogleColaboratory/blob/main/method4colab_ssh.ipynb" %}
 GitHub
