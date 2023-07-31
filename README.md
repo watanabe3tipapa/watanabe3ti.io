@@ -119,7 +119,7 @@ Overview
 {% endembed %}
 {% endtab %}
 
-{% tab title="Main site" %}
+{% tab title="日本語Markdownユーザー会i" %}
 ```html
 日本語Markdownユーザー会// https://www.markdown.jp/
 ```
