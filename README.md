@@ -113,10 +113,6 @@ source
 ### External link
 
 {% tabs %}
-{% tab title="GitHub post" %}
-
-{% endtab %}
-
 {% tab title="GitHub Overview" %}
 {% embed url="https://github.com/watanabe3tipapa" %}
 Overview
@@ -124,7 +120,9 @@ Overview
 {% endtab %}
 
 {% tab title="Main site" %}
-{% embed url="http://watanabe3ti.com/jp" %}
+```html
+日本語Markdownユーザー会// https://www.markdown.jp/
+```
 {% endtab %}
 
 {% tab title="BLOG" %}
