@@ -120,29 +120,15 @@ Overview
 {% endtab %}
 
 {% tab title="日本語Markdownユーザー会" %}
-```html
-日本語Markdownユーザー会// https://www.markdown.jp/
-```
-{% endtab %}
-
-{% tab title="BLOG" %}
-{% embed url="http://watanabe3ti.txt-nifty.com" %}
-BLOG
-{% endembed %}
-{% endtab %}
-
-{% tab title="Wiki" %}
-{% embed url="https://wiki.watanabe3ti.com" %}
-BLOG（ annex）==（Wiki）
-{% endembed %}
+[https://www.markdown.jp/](https://www.markdown.jp/)
 {% endtab %}
 
 {% tab title="Toolsmith" %}
 {% embed url="https://toolsmith.watanabe3ti.com" %}
 {% endtab %}
 
-{% tab title="Blog Archives" %}
-{% embed url="https://blogs.watanabe3ti.com" %}
+{% tab title="log" %}
+{% embed url="https://blogs.watanabe3ti.com" fullWidth="true" %}
 {% endtab %}
 {% endtabs %}
 
