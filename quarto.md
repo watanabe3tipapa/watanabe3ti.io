@@ -2,7 +2,7 @@
 description: 万能ツールとしての quartoの 概要 と 記法について
 ---
 
-# quarto
+# ⚙️ quarto
 
 {% embed url="http://quartomagazine.com/about-no-bios" %}
 mention

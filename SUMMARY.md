@@ -5,7 +5,7 @@
 * [🌐 Notation on the GitHub (GitHub Pages)](index-1.md)
 * [🔜 GitHub](git-hub.md)
 * [🔜 R](r.md)
-* [quarto](quarto.md)
+* [⚙️ quarto](quarto.md)
 * [📓 Notion](notion.md)
 * [📕 Boost Note](boost-note.md)
 * [📗 Obsidian](obsidian.md)
